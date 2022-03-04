@@ -16,14 +16,16 @@ I'm Tuan Ngoc, a CS student at VGU and aspiring as software developer.
 
 <summary>More Skills</summary>
 <br>
+  
   ![](https://img.shields.io/badge/Test-JUnit-informational?style=flat&logo=JUnit&logoColor=white&color=4AB197)
   ![](https://img.shields.io/badge/Test-EasyMock-informational?style=flat&logo=EASYMOCK&logoColor=white&color=4AB197)
-</br>
-
+  
 <br>
+
   ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
   ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-</br>
+  
+<br>
 
 </details>
 
